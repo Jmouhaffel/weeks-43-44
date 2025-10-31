@@ -168,7 +168,7 @@ if __name__ == "__main__":
     ax.set_xlim(x0 - pad_x, x1 + pad_x)
     ax.set_ylim(y0 - pad_y, y1 + pad_y)
 
-    ax.set_title("Rectangles, Triangles, and Circles (single turtle / single axes)")
+    ax.set_title("INF201 – Rectangles, Triangles, Circle (single turtle)")
     plt.tight_layout()
 
     # Show; if backend fails, save PNG
