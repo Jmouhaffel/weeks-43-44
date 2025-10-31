@@ -42,6 +42,8 @@ class Rectangle:
     def info(self) -> None:
         print(f"Rectangle LL=({self.x1}, {self.y1}), UR=({self.x2}, {self.y2}), "
               f"color={self.color}, linewidth={self.linewidth}")
+        
+# TODO(Rami): consider adding fill option later for colored circles
 
     def draw(self, turtle) -> None:
         rect = MplRectangle(
@@ -97,13 +99,14 @@ class Circle:
     radius: float
     color: str = "tab:red"
     linewidth: float = 1.8
-    sides: int = 200
+    sides: int = 300
 
     def info(self) -> None:
         print(f"Circle center={self.center}, r={self.radius}, "
               f"color={self.color}, linewidth={self.linewidth}, sides={self.sides}")
 
     def draw(self, turtle) -> None:
+    # TODO(Rami): consider adding fill option later for colored circles
         cx, cy = self.center
         pts: List[Tuple[float, float]] = []
         for k in range(self.sides):
