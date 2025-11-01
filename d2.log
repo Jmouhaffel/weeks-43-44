@@ -1,0 +1,59 @@
+commit 2a988c96cf7a06c2b1c2d5cccb60c6e031f404aa
+Author: Rami Alter <joudy.raba.bakri.radwan.mouhaffel@nmbu.no>
+Date:   Fri Oct 31 15:06:20 2025 +0100
+
+    Tweak: smoother Circle (sides=300) + TODO (Rami Alter)
+
+commit e12fa8ead78bbb5795f3db06d2687b956d741045
+Author: Joudy Mouhaffel <joudy.raba.bakri.radwan.mouhaffel@nmbu.no>
+Date:   Fri Oct 31 15:01:50 2025 +0100
+
+    Polish: update plot title (Joudy)
+
+commit 151dd0ae429cb9de04a9be85d290d6a46320d219
+Author: Joudy Mouhaffel <joudy.raba.bakri.radwan.mouhaffel@nmbu.no>
+Date:   Fri Oct 31 14:37:20 2025 +0100
+
+    Task 3: Add Triangle & Circle with color/linewidth; info() & draw() for all (Joudy)
+
+commit aee6dbca29c7414f4445927c83846aa360f0e549
+Author: Joudy Mouhaffel <joudy.raba.bakri.radwan.mouhaffel@nmbu.no>
+Date:   Fri Oct 31 14:35:12 2025 +0100
+
+    Tasks 1 & 2: Added Rectangle class with info() and draw() (Joudy)
+
+commit 81999fecf7cf73b784ec162c3698289e721be6ff
+Author: Joudy Mouhaffel <joudy.raba.bakri.radwan.mouhaffel@nmbu.no>
+Date:   Fri Oct 31 14:31:53 2025 +0100
+
+    Ignore sample data file
+
+commit bf3d5a9655a4c5432cce0e63b93fd507a210ba3e
+Author: Joudy Mouhaffel <joudy.raba.bakri.radwan.mouhaffel@nmbu.no>
+Date:   Fri Oct 31 14:29:13 2025 +0100
+
+    Task 1: Add Rectangle class with info() and main section (Joudy)
+
+commit ca3a5b32c468fd01a25c8490afed74e381f62063
+Author: Rami Alter <joudy.raba.bakri.radwan.mouhaffel@nmbu.no>
+Date:   Fri Oct 31 14:17:44 2025 +0100
+
+    Add TODO comment to d2_solution.py (Rami Alter)
+
+commit f52f0ad86a6e0299f85a70745c32628754e77f01
+Author: Rami Alter <joudy.raba.bakri.radwan.mouhaffel@nmbu.no>
+Date:   Fri Oct 31 14:17:32 2025 +0100
+
+    Add TODO comment to d2_solution.py (Rami Alter)
+
+commit d6e7b1515ed6a7c08b917ab4e0475c98790f37c4
+Author: Joudy Mouhaffel <joudy.raba.bakri.radwan.mouhaffel@nmbu.no>
+Date:   Fri Oct 31 14:17:03 2025 +0100
+
+    Add README with authors and run instructions (Joudy)
+
+commit ad0354cf83db7c0fb2c02f2f7750777b0f5351b1
+Author: Joudy Mouhaffel <joudy.raba.bakri.radwan.mouhaffel@nmbu.no>
+Date:   Fri Oct 31 14:11:50 2025 +0100
+
+    Init main Python file (Joudy)
